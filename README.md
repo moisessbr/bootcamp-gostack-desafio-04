@@ -2,7 +2,7 @@
 
 Página criada como resposta ao desafio 04 do Bootcamp GoStack.
 
-[Clicando aqui](public/index.html)você confere o código.
+[Clicando aqui](public/index.html) você confere o código.
 
 E em http://moisessisleki.com/desafio-04-bootcamp-gostack você acessa hospedado.
 
