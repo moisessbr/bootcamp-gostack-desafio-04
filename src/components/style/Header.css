@@ -1,0 +1,28 @@
+.header-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  background: #4A90E2;
+  min-height: 64px;
+  color: #fff;
+  font-weight: 600;  
+}
+
+.logo{
+  width: 130px;
+  margin-left: 20px;
+}
+
+.user-profile{
+  display: flex;
+  width: 150px;
+  justify-content: space-around;
+  padding-right: 30px;
+}
+
+.user-profile span{
+  margin: auto 20px auto 20px;
+  line-height: 1.6;
+}
+
