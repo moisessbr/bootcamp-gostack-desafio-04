@@ -1,7 +1,10 @@
 # Página Estática em React 
 
 Página criada como resposta ao desafio 04 do Bootcamp GoStack.
-[clique aqui para acessar o resultado](public/index.html)
+
+[Clicando aqui](public/index.html)você confere o código.
+
+E em http://moisessisleki.com/desafio-04-bootcamp-gostack você acessa hospedado.
 
 
 # Desafio 04. Introdução ao React
