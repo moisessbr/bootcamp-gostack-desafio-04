@@ -1,7 +1,7 @@
 # Página Estática em React 
 
 Página criada como resposta ao desafio 04 do Bootcamp GoStack.
-
+[clique aqui para acessar o resultado](public/index.html)
 
 
 # Desafio 04. Introdução ao React
